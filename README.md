@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning HTML, CSS, JavaScript and Python.
 - 💞️ I’m looking to collaborate on everything!
 
-- I am about to start my School of Code journey, and am very excited at the prospect of learning new skills, collaborating with other people, and developing myself ready for my future career.
+- I am currently working my first job in tech at School of Code, and am very excited at the prospect of learning new skills, collaborating with other people, and developing myself ready for my future career.
 
 <!---
 jacobfield/jacobfield is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
