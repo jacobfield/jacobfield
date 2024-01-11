@@ -1,6 +1,7 @@
 <div align="center">
 <h1>Happy Thursday!</h1>
-<img src="./Large-marble-banner.png" alt="marble banner" align="center">
+![Large-marble-banner](https://github.com/jacobfield/jacobfield/assets/139918322/a88ea457-9bee-4b12-a3d6-0056ec202024)
+
 
 </div>
 
