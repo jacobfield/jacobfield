@@ -60,7 +60,7 @@
 
 <div align="center">
 <h2>My Stats...</h2>
-[![Jacob's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=jacobfield&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/jacobfield/github-readme-stats#gh-dark-mode-only)
+[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=jacobfield)](https://github.com/jacobfield/github-readme-stats)
 </div>
 
 
