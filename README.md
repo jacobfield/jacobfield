@@ -55,6 +55,9 @@
   <a href="https://www.linkedin.com/in/jacob-field-683122186/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
+  <a href="insta link" target="_blank">
+    <img src="https://private-user-images.githubusercontent.com/139918322/295910156-841c4a3a-9b9a-427b-849f-b301580fe462.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MDQ5NzU5MzMsIm5iZiI6MTcwNDk3NTYzMywicGF0aCI6Ii8xMzk5MTgzMjIvMjk1OTEwMTU2LTg0MWM0YTNhLTliOWEtNDI3Yi04NDlmLWIzMDE1ODBmZTQ2Mi5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQwMTExJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MDExMVQxMjIwMzNaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT0wOTUxNWQ0ZTIwNzEyNjU4M2VlODI5ZmNkMWU2MjRiNDFmMjU4ZmMwMzUzNjNhMGZlY2I0MmE3NmFkNWZkNGI1JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.B9o6aQhMy6R37QoVkg-hya3AFlrV6RFHd0QCTTqU49s" height="35" alt="Instagram logo" />
+  </a>
 </div>
 
 
