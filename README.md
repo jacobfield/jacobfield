@@ -1,6 +1,6 @@
 <div align="center">
 <h1>Happy Thursday!</h1>
-<img src="Large-marble-banner.png" alt="marble banner" align=”center”>
+<img src="./Large-marble-banner.png" alt="marble banner" align="center">
 
 </div>
 
