@@ -4,7 +4,6 @@
 
 </div>
 
-
 <!-- intro -->
 <div align="center">
 <h2>Let me introduce myself...</h2>
@@ -68,7 +67,6 @@
   </a>
 </div>
 
-
 <div align="center">
 <h2>My Stats:</h2>
 <img src="https://github-readme-stats.vercel.app/api?username=jacobfield&show_icons=true&theme=transparent" height="150" alt="stats graph"  />
@@ -82,7 +80,3 @@
 <!-- <a href="https://github.com/Platane/snk"><img src="https://github.com/jacobfield/snake/raw/manual-run-output/only-svg/github-contribution-grid-snake-dark.svg" width="100%"></a> -->
 
 </div>
-
-
-
-
