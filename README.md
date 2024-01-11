@@ -6,7 +6,7 @@
 <h2>Let me introduce myself...</h2>
 <br>
 </div>
-<p align="center">Hi, I'm Jacob, and I'm thrilled to begin this exciting adventure of exploring the amazing world of tech! Having successfully completed The School of Code Bootcamp (Cohort 15), I've entered the enchanting realm of software development, and I'm never looking back. My goal is to expand my knowledge in both front and back end technologies, with an aim of becoming an excellent full stack developer. <br> The world of AI captivates me, and my future goals include contributing to creating a human friendly Strong AI. Currently, I'm solidifying my understanding of the fundamentals, as well as developing my wider knowledge of all the fantastic technologies out there, and I must say that the experience is truly delightful. <br><br> Check out my portfolio <a target="_blank" href="https://red-portfolio-blush.vercel.app/">here!</a></p>
+<p align="center">Hi, I'm Jacob, and I'm thrilled to begin this exciting adventure of exploring the amazing world of tech! Having successfully completed The School of Code Bootcamp (Cohort 15), I've entered the enchanting realm of software development, and I'm never looking back. My goal is to expand my knowledge in both front and back end technologies, with an aim of becoming an excellent full stack developer. <br> The world of AI captivates me, and my future goals include contributing to creating a human friendly Strong AI. Currently, I'm solidifying my understanding of the fundamentals, as well as developing my wider knowledge of all the fantastic technologies out there, and I must say that the experience is truly delightful. <br><br> Check out my portfolio <a target="_blank" href="https://red-portfolio-blush.vercel.app/">here</a>!</p>
 
 <!-- Tech stack -->
 
@@ -49,8 +49,8 @@
 <div align="center">
   <h2>Lets chat!</h2>
   <br>
-  <a href="mailto:jacobprogrammes@@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  <a href="mailto:jacobprogrammes@gmail.com" target="_blank">
+    <img src="https://private-user-images.githubusercontent.com/139918322/295909841-b484cd43-176f-4231-93fb-3b41e8c094e3.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MDQ5NzU4NTUsIm5iZiI6MTcwNDk3NTU1NSwicGF0aCI6Ii8xMzk5MTgzMjIvMjk1OTA5ODQxLWI0ODRjZDQzLTE3NmYtNDIzMS05M2ZiLTNiNDFlOGMwOTRlMy5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQwMTExJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MDExMVQxMjE5MTVaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT02NTE5MmYzNTc5Yzg2YzZiMjZmOWFkYmZjMGYzNmE2MjJhYjQ2YWI3YzUyN2YzNjEwYmFkMjMxODdhYjU5YTNlJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.Avzh-JcRcSfyMdliixx_xjyjdr3nB4btumzH3kBIN5M" height="35" alt="gmail logo"  />
   </a>
   <a href="https://www.linkedin.com/in/jacob-field-683122186/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
