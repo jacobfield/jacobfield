@@ -7,6 +7,7 @@
 <br>
 </div>
 <p align="center">Hi, I'm Jacob, and I'm thrilled to begin this exciting adventure of exploring the amazing world of tech! Having successfully completed The School of Code Bootcamp (Cohort 15), I've entered the enchanting realm of software development, and I'm never looking back. My goal is to expand my knowledge in both front and back end technologies, with an aim of becoming an excellent full stack developer. <br> The world of AI captivates me, and my future goals include contributing to creating a human friendly Strong AI. Currently, I'm solidifying my understanding of the fundamentals, as well as developing my wider knowledge of all the fantastic technologies out there, and I must say that the experience is truly delightful. <br><br> Check out my portfolio <a target="_blank" href="https://red-portfolio-blush.vercel.app/">here</a>!</p>
+<br>
 
 <!-- Tech stack -->
 
@@ -68,6 +69,13 @@
 <h2>My Stats:</h2>
 <img src="https://github-readme-stats.vercel.app/api?username=jacobfield&show_icons=true&theme=transparent" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jacobfield&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=transparent" height="150" alt="languages graph"  />
+
+</div>
+<br>
+<div align="center">
+  <!-- contribution snake grid -->
+
+<a href="https://github.com/Platane/snk"><img src="https://github.com/jacobfield/snake/raw/manual-run-output/only-svg/github-contribution-grid-snake-dark.svg" width="100%"></a>
 
 </div>
 
