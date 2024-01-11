@@ -79,7 +79,7 @@
 <div align="center">
   <!-- contribution snake grid -->
 
-<a href="https://github.com/Platane/snk"><img src="https://github.com/jacobfield/snake/raw/manual-run-output/only-svg/github-contribution-grid-snake-dark.svg" width="100%"></a>
+<!-- <a href="https://github.com/Platane/snk"><img src="https://github.com/jacobfield/snake/raw/manual-run-output/only-svg/github-contribution-grid-snake-dark.svg" width="100%"></a> -->
 
 </div>
 
