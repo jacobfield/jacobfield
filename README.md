@@ -6,7 +6,7 @@
 <h2>Let me introduce myself...</h2>
 <br>
 </div>
-<p align="center">Hi, I'm Jacob, and I'm thrilled to begin this exciting adventure of exploring the amazing world of tech! Having successfully completed The School of Code Bootcamp (Cohort 15), I've entered the enchanting realm of software development, and I'm never looking back. My goal is to expand my knowledge in both front and back end technologies, with an aim of becoming an excellent full stack developer. <br> The world of AI captivates me, and my future goals include contributing to creating a human friendly Strong AI. Currently, I'm solidifying my understanding of the fundamentals, as well as developing my wider knowledge of all the fantastic technologies out there, and I must say that the experience is truly delightful. <br><br> Check out my portfolio <a href="https://red-portfolio-blush.vercel.app/">here!</a></p>
+<p align="center">Hi, I'm Jacob, and I'm thrilled to begin this exciting adventure of exploring the amazing world of tech! Having successfully completed The School of Code Bootcamp (Cohort 15), I've entered the enchanting realm of software development, and I'm never looking back. My goal is to expand my knowledge in both front and back end technologies, with an aim of becoming an excellent full stack developer. <br> The world of AI captivates me, and my future goals include contributing to creating a human friendly Strong AI. Currently, I'm solidifying my understanding of the fundamentals, as well as developing my wider knowledge of all the fantastic technologies out there, and I must say that the experience is truly delightful. <br><br> Check out my portfolio <a target="_blank" href="https://red-portfolio-blush.vercel.app/">here!</a></p>
 
 <!-- Tech stack -->
 
