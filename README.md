@@ -59,8 +59,10 @@
 
 
 <div align="center">
-<h2>My Stats...</h2>
-[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=jacobfield)](https://github.com/anuraghazra/github-readme-stats)
+<h2>My Stats:</h2>
+<img src="https://github-readme-stats.vercel.app/api?username=jacobfield&show_icons=true&theme=transparent" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jacobfield&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=transparent" height="150" alt="languages graph"  />
+
 </div>
 
 
