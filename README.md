@@ -53,9 +53,9 @@
 <div align="center">
   <h2>Lets chat!</h2>
   <br>
-  <a href="https://github.com/jacobfield/jacobfield/assets/139918322/5ea87398-b20d-4963-b1d7-f4fb203b694f">
-    ![gmail](https://github.com/jacobfield/jacobfield/assets/139918322/5ea87398-b20d-4963-b1d7-f4fb203b694f)
-</a>&nbsp;&nbsp;&nbsp;
+ <a href="https://github.com/jacobfield/jacobfield/assets/139918322/5ea87398-b20d-4963-b1d7-f4fb203b694f">
+    <img src="https://github.com/jacobfield/jacobfield/assets/139918322/5ea87398-b20d-4963-b1d7-f4fb203b694f" alt="gmail logo" height="35" />
+  </a>&nbsp;&nbsp;&nbsp;
 
   <a href="https://www.linkedin.com/in/jacob-field-683122186/" target="_blank">
     <img src="https://private-user-images.githubusercontent.com/139918322/295910575-529a0c63-a2d8-41e1-9472-4e1743a3bdec.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MDQ5NzYwMzEsIm5iZiI6MTcwNDk3NTczMSwicGF0aCI6Ii8xMzk5MTgzMjIvMjk1OTEwNTc1LTUyOWEwYzYzLWEyZDgtNDFlMS05NDcyLTRlMTc0M2EzYmRlYy5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQwMTExJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MDExMVQxMjIyMTFaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1kODFhODdmYzc1Y2U2MGZiY2JhNjNkOTBhZWU5ZGZmOTEyYjdhODUzNzU4NzY0ODQ0NGUwZDZiYzljYjQzMmVlJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.2v7ReWZpzZMcp929ko4kXm6XmBorBaIEhyIDfJGoEog" height="35" alt="linkedin logo"  />
