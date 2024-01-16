@@ -1,6 +1,6 @@
 <div align="center">
 <h1>Happy Tuesday!</h1>
-  <img src="https://private-user-images.githubusercontent.com/139918322/295943355-cf7c75c6-21dd-4dcb-973a-8580b870a303.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MDQ5ODI5ODUsIm5iZiI6MTcwNDk4MjY4NSwicGF0aCI6Ii8xMzk5MTgzMjIvMjk1OTQzMzU1LWNmN2M3NWM2LTIxZGQtNGRjYi05NzNhLTg1ODBiODcwYTMwMy5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQwMTExJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MDExMVQxNDE4MDVaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT0yYTJjNTc4Yjk1N2I0ZDg0NjAzMTk0ZGU4MTgzZjliZDNmMjcxZTY2OThhOTQxN2MzZDZmMDg3YjY2NThkZTA4JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.Ykm6fAutSRN6b_hUcKBejWSyDmf5qhnz8MudityKR2o" alt="marble banner" align="center">
+  <img src="https://github.com/jacobfield/jacobfield/assets/139918322/66c0261b-a12f-46c5-adcd-261b93c0f7ac" alt="marble banner" align="center">
 
 </div>
 
@@ -48,7 +48,7 @@
   <img src="https://cdn.simpleicons.org/adobephotoshop/31A8FF" height="30" alt="photoshop logo"  />
 </div>
 
-<!-- social links -->
+<!-- social links --> 
 
 <div align="center">
   <h2>Lets chat!</h2>
@@ -58,13 +58,13 @@
   </a>&nbsp;&nbsp;&nbsp;
 
   <a href="https://www.linkedin.com/in/jacob-field-683122186/" target="_blank">
-    <img src="https://github.com/jacobfield/jacobfield/assets/139918322/928f7654-bdb1-40fe-aaac-2ea0efb7536d" height="35" alt="linkedin logo"  />
+    <img src="https://github.com/jacobfield/jacobfield/assets/139918322/3c5e9efe-7d87-480d-ac4e-190d3d43b5eb" height="35" alt="linkedin logo"  />
   </a>&nbsp;&nbsp;&nbsp;
   <a href="https://www.instagram.com/lunar_light_code/" target="_blank">
-    <img src="https://private-user-images.githubusercontent.com/139918322/295910156-841c4a3a-9b9a-427b-849f-b301580fe462.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MDQ5NzU5MzMsIm5iZiI6MTcwNDk3NTYzMywicGF0aCI6Ii8xMzk5MTgzMjIvMjk1OTEwMTU2LTg0MWM0YTNhLTliOWEtNDI3Yi04NDlmLWIzMDE1ODBmZTQ2Mi5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQwMTExJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MDExMVQxMjIwMzNaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT0wOTUxNWQ0ZTIwNzEyNjU4M2VlODI5ZmNkMWU2MjRiNDFmMjU4ZmMwMzUzNjNhMGZlY2I0MmE3NmFkNWZkNGI1JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.B9o6aQhMy6R37QoVkg-hya3AFlrV6RFHd0QCTTqU49s" height="35" alt="Instagram logo" />
+    <img src="https://github.com/jacobfield/jacobfield/assets/139918322/928f7654-bdb1-40fe-aaac-2ea0efb7536d" height="35" alt="Instagram logo" />
   </a>&nbsp;&nbsp;&nbsp;
    <a href="https://red-portfolio-blush.vercel.app/" target="_blank">
-    <img src="https://private-user-images.githubusercontent.com/139918322/295911037-2d78a074-1523-4eeb-ba70-49da20331b4e.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MDQ5NzYxMzIsIm5iZiI6MTcwNDk3NTgzMiwicGF0aCI6Ii8xMzk5MTgzMjIvMjk1OTExMDM3LTJkNzhhMDc0LTE1MjMtNGVlYi1iYTcwLTQ5ZGEyMDMzMWI0ZS5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQwMTExJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MDExMVQxMjIzNTJaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT01NGIyZTZmYWUxMzI3YjBjYzQ4NTg0ZjM4YTJjOGVkZWEwNmM2YWRmZWM2YzE2NjVlNTc3Mjc2MjcxNjZhNjY4JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.QuqhnkUTj6EQC8B_FeGqQxhe1CcUcVhzwT93-fyn-7Q" height="35" alt="Portfolio logo" />
+    <img src="https://github.com/jacobfield/jacobfield/assets/139918322/d50bc53d-3a83-4076-9f27-f5f299c56db3" height="35" alt="Portfolio logo" />
   </a>
 </div>
 
