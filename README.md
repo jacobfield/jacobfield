@@ -77,10 +77,10 @@
 <br>
 <div align="center">
   <!-- contribution snake grid -->
-<!--
-<a href="https://github.com/Platane/snk">-->
-<img src="https://github.com/jacobfield/snake/raw/manual-run-output/docker/github-contribution-grid-snake-blue.gif" width="100%" alt="github contributions in the form of a snake" />
-<!--</a>-->
+
+<a href="https://github.com/Platane/snk">
+    <img src="https://github.com/jacobfield/snake-repo/blob/manual-run-output/docker/github-contribution-grid-snake.gif?raw=true" width="100%" alt="github contributions in the form of a snake" />
+</a>
 
 <p> Click on the grid above to make your own!</p>
 
