@@ -78,6 +78,18 @@
 <div align="center">
   <!-- contribution snake grid -->
 
-<!-- <a href="https://github.com/Platane/snk"><img src="https://github.com/jacobfield/snake/raw/manual-run-output/only-svg/github-contribution-grid-snake-dark.svg" width="100%"></a> -->
+<a href="https://github.com/Platane/snk">
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://github.com/jacobfield/snake/raw/manual-run-output/docker/github-contribution-grid-snake-blue.gif"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://github.com/jacobfield/snake/raw/manual-run-output/docker/github-contribution-grid-snake.gif"
+  />
+  <img
+    alt="github contribution grid snake animation"
+    src="https://github.com/jacobfield/snak
 
 </div>
