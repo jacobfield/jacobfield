@@ -79,17 +79,9 @@
   <!-- contribution snake grid -->
 
 <a href="https://github.com/Platane/snk">
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://github.com/jacobfield/snake/raw/manual-run-output/docker/github-contribution-grid-snake-blue.gif"
-  />
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://github.com/jacobfield/snake/raw/manual-run-output/docker/github-contribution-grid-snake.gif"
-  />
-  <img
-    alt="github contribution grid snake animation"
-    src="https://github.com/jacobfield/snak
 
+<img src="https://github.com/jacobfield/snake/raw/manual-run-output/docker/github-contribution-grid-snake-blue.gif" width="100%" alt="github contributions in the form of a snake" />
+
+</a>
+<p> Click on the grid above to make your own!</p>
 </div>
