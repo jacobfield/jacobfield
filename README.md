@@ -9,7 +9,8 @@
 <h2>Let me introduce myself...</h2>
 <br>
 </div>
-<p align="center">Hi, I'm Jacob, and I'm thrilled to begin this exciting adventure of exploring the amazing world of tech! Having successfully completed The School of Code Bootcamp (Cohort 15), I've entered the enchanting realm of software development, and I'm never looking back. My goal is to expand my knowledge in both front and back end technologies, with an aim of becoming an excellent full stack developer. <br> The world of AI captivates me, and my future goals include contributing to creating a human friendly Strong AI. Currently, I'm solidifying my understanding of the fundamentals, as well as developing my wider knowledge of all the fantastic technologies out there, and I must say that the experience is truly delightful. <br><br> Check out my portfolio <a target="_blank" href="https://red-portfolio-blush.vercel.app/">here</a>!</p>
+<p align="center">Hi, I'm Jacob, and I'm thrilled to be on my journey to a career in tech! I am a highly motivated and team-focused problem-solver, dedicated to launching my tech career. My passion for learning and technology is evident in my Master's research, where I explored the ethical implementations of AI development. This enthusiasm drives my commitment to working in tech, with a focus on shaping future AIs within a friendly ethical framework. I am analytically minded and am committed to continuous learning and personal development. Drawing from a background in Education, I'm eager to channel my knowledge into my tech career. Beyond work, I hone my musical skills, play guitar, bass, and drums. An ardent American Football fan, I am the founder of a flag American Football team – the Derbyshire Ducks. 🦆
+ <br><br> Check out my portfolio <a target="_blank" href="https://red-portfolio-blush.vercel.app/">here</a>!</p>
 <br>
 
 <!-- Tech stack -->
